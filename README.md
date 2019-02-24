@@ -1,3 +1,3 @@
 # RoboFriends - React
 
-A simple React that can search a robot.
+A simple react app that can search a robot.
